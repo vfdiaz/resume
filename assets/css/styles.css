@@ -220,6 +220,7 @@ p {
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 5px;
+  font-weight: bold;
 }
 .main-wrapper .projects-section .intro {
   margin-bottom: 30px;
@@ -296,6 +297,10 @@ img {
     height:auto;
     width:auto;
     max-height:100vh;
+}
+
+.item-sp {
+    margin-bottom: 5px;
 }
 
 /* Large devices (large desktops, 1200px and up) */
